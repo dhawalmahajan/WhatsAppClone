@@ -1,7 +1,8 @@
 # WhatsAppClone
 Whatsapp Clone App
 
-This project inspired by youtube playlist - https://youtu.be/QWRbUqcHm1g?si=mTYlVMzijfndxGi6 
-This project created to create portfolio of full fledge swiftUI App.
+
+This project created to build portfolio of full fledge swiftUI App.
+Inspired by youtube playlist - https://youtu.be/QWRbUqcHm1g?si=mTYlVMzijfndxGi6 
 
 
